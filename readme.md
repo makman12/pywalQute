@@ -41,7 +41,7 @@ pywalQute.draw.color(c, {
 
 ## Team
 
-There is no team. I just forked this theme from dracula [draculatheme.com/qutebrowser].
+There is no team. I just forked this theme from dracula[draculatheme.com/qutebrowser].
 
 ## More Screenshots
 ![Screenshot](./test1.png)
