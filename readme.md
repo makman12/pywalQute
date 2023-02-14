@@ -21,7 +21,7 @@ Download using the [GitHub .zip download](https://github.com/makman12/pywalQute.
 
 #### Activating theme
 
-- Find your _[qutebrowser configuration directory](https://www.qutebrowser.org/doc/help/configuring.html#configpy)_ (see e.g. `:version` in qutebrowser). This folder should be located at the "config" location listed on qute://version, which is typically ~/.config/qutebrowser/ on Linux. I just assume that your pywal keeps its files in `~/.cache/pywal` if not just fix the code its pretty simple.
+- Find your _[qutebrowser configuration directory](https://www.qutebrowser.org/doc/help/configuring.html#configpy)_ (see e.g. `:version` in qutebrowser). This folder should be located at the "config" location listed on qute://version, which is typically ~/.config/qutebrowser/ on Linux. I just assume that your pywal keeps its files in `~/.cache/wal` if not just fix the code its pretty simple.
 - Move the repository folder to `pywalQute` inside the configuration directory.
 - In your [qutebrowser config.py file](https://www.qutebrowser.org/doc/help/configuring.html#configpy), include the following:
 
